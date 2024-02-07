@@ -18,7 +18,7 @@ I'm a software engineer who loves exploring new technologies and contributing to
 - **Mina**: Contributed to the Mina testnet.
 - **Concordium**: Engaged in Concordium testnet activities.
 - **Subspace**: Actively involved in the Subspace testnet.
-- **Dymension**: Contributed to the Dymension testnet, also serving as a moderator on Discord.
+- **Dymension**: Contributed to the Dymension testnet.
 - **Other Testnets**: Participated in numerous other testnets including Casper, Humanode, Humans, Hopr, Kira, Stargaze, NYM, Polkadex, OmniFlix, Quicksilver, Meson Network, Aleo, Forta, Obol, Stride, Sei, and more.
 
 ### Mainnets
